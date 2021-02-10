@@ -10,3 +10,6 @@ def patch3:
 
 def patch4:
     pritn("patch4")
+
+def patch5:
+    print("patch5")
