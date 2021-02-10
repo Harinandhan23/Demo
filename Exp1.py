@@ -5,5 +5,5 @@ def class:
 def patch:
     print("patch")
 
-def patch2:
-    print("print")
+def patch3:
+    print("patch3")
