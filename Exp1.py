@@ -13,3 +13,5 @@ def patch4:
 
 def patch5:
     print("patch5")
+def patch ssh:
+    print("ssh")
