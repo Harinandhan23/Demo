@@ -4,6 +4,9 @@
 def class:
     print("hi")
 
+def class:
+    print("hi")
+
 def patch:
     print("patch")
 
