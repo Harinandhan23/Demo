@@ -5,3 +5,6 @@ def func2:
 def func4:
     print("func4")
     break
+def flash:
+    print("flash")
+    break
